@@ -1,0 +1,51 @@
+body{
+    font-family: Arial;
+    margin : 0px;
+    padding: 0px;
+    background-color:rgb(62, 33, 64)
+}
+header{
+    padding:11px;
+    background-color:rgb(56, 15, 61);
+    color:rgb(12, 195, 57);
+    
+}
+main{
+    width : 90%;
+    margin: 20px;
+
+    padding:1px;
+    color :rgb(246, 245, 249);
+    background-color:rgb(19, 12, 12)
+}
+img{
+    display : block;
+    margin : 10px;
+    border-radius: 100%;
+}
+table{
+    width : 100%;
+    
+}
+th,td{
+    
+ /* border : 1px */
+ padding : 5px;
+}
+thead{
+    background-color: rgb(213, 130, 21);
+}
+#submit{
+    background-color: aqua;
+    border-radius: 100px;
+}
+
+#cwm{
+   color: aqua;
+}
+button{
+    background-color: rgb(42, 109, 195);
+    border-radius: 10px;
+    
+    
+}
